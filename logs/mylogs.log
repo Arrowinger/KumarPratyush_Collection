@@ -1,0 +1,10 @@
+2020-03-04 20:05:44 WARN  com.epam.customList.Client:29 - List after adding some data
+2020-03-04 20:05:44 INFO  com.epam.customList.Client:30 - [10,20,30,40,50,60,70,80,90,100,110,120,130]
+2020-03-04 20:05:44 WARN  com.epam.customList.Client:36 - List after removing some items from index 2,5,10
+2020-03-04 20:05:44 INFO  com.epam.customList.Client:37 - [10,20,40,50,60,80,90,100,110,120]
+2020-03-04 20:05:44 WARN  com.epam.customList.Client:40 - Element at index 0
+2020-03-04 20:05:44 INFO  com.epam.customList.Client:41 - 10
+2020-03-04 20:05:44 WARN  com.epam.customList.Client:42 - Element at index 9
+2020-03-04 20:05:44 INFO  com.epam.customList.Client:43 - 120
+2020-03-04 20:05:44 WARN  com.epam.customList.Client:46 - Size of the Custom List
+2020-03-04 20:05:45 INFO  com.epam.customList.Client:47 - 10
